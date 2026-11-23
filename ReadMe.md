@@ -1,5 +1,23 @@
-# 💫 About Me:
-Hi there! 👋 I'm Atharva Lohakare<br>👨‍💻 Aspiring Developer | Tech Enthusiast<br>- 🌱 Currently learning new technologies<br>- 💻 Interested in software development<br>- 🚀 Building projects and improving my skills<br>- 🎯 Always excited to learn and collaborate<br>Connect with me<br><br>GitHub | LinkedIn | Portfolio
+# 💫 About Me
+
+<h1 align="center">👋 Hi there! I'm Atharva Lohakare</h1>
+
+<h2 align="center">👨‍💻 Aspiring Developer | Tech Enthusiast</h2>
+
+<h3>🚀 About Me</h3>
+
+- 🌱 Currently learning new technologies
+- 💻 Interested in software development
+- 🚀 Building projects and improving my skills
+- 🎯 Always excited to learn and collaborate
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="YOUR_GITHUB_LINK">GitHub</a> |
+  <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> |
+  <a href="YOUR_PORTFOLIO_LINK">Portfolio</a>
+</p>
 
 
 ## 🌐 Socials:
