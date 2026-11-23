@@ -66,6 +66,19 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=AtharvaLohakare&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
+
+<h2 align="center">🚀 MY PROJECTS</h2>
+
+<p align="center">
+  <a href="[https://github.com/AtharvaLohakare/Portfolio](https://github.com/AtharvaLohakare/Student-Management--System.git)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaLohakare&repo=Portfolio&theme=dark" />
+  </a>
+  <a href="[https://github.com/AtharvaLohakare/Project2](https://github.com/AtharvaLohakare/Portfolio-Website.git)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaLohakare&repo=Project2&theme=dark" />
+  </a>
+</p>
+
+
 ---
 
 <p align="center">
