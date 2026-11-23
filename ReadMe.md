@@ -70,11 +70,11 @@
 <h2 align="center">🚀 MY PROJECTS</h2>
 
 <p align="center">
-  <a href="[https://github.com/AtharvaLohakare/Portfolio](https://github.com/AtharvaLohakare/Student-Management--System.git)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaLohakare&repo=Portfolio&theme=dark" />
+  <a href="https://github.com/AtharvaLohakare/Student-Management--System.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaLohakare&repo=Student-Management--System.git&theme=dark" />
   </a>
-  <a href="[https://github.com/AtharvaLohakare/Project2](https://github.com/AtharvaLohakare/Portfolio-Website.git)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaLohakare&repo=Project2&theme=dark" />
+  <a href="https://github.com/AtharvaLohakare/Portfolio-Website.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaLohakare&repo=Portfolio-Website.git&theme=dark" />
   </a>
 </p>
 
