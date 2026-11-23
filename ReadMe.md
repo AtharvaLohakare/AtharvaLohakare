@@ -24,7 +24,7 @@
 <h1 align="center">🌐 Connect With Me</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/AtharvaLohakare">
+  <a href="https://linkedin.com/in/atharva-lohakare-324211379">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:atharvalohakare5@gmail.com">
@@ -76,4 +76,4 @@
   ⭐ Thanks for visiting my profile! Happy Coding! 🚀
 </p>
 
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+<!-- Proudly created by Atharva with GPRM -->
