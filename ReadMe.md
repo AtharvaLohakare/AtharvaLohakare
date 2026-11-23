@@ -60,14 +60,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<h2 align="center">🔝 TOP CONTRIBUTED REPOSITORIES</h2>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AtharvaLohakare&limit=5&theme=dark" />
-</p>
-
-
-<h2 align="center">🚀 MY PROJECTS</h2>
+<h2 align="center">🚀 TOP CONTRIBUTED PROJECTS</h2>
 
 <p align="center">
   <a href="https://github.com/AtharvaLohakare/Student-Management--System">
