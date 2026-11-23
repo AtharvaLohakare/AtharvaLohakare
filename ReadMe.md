@@ -63,9 +63,8 @@
 <h2 align="center">🔝 TOP CONTRIBUTED REPOSITORIES</h2>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AtharvaLohakare&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=AtharvaLohakare&limit=5&theme=dark" />
 </p>
-
 
 
 <h2 align="center">🚀 MY PROJECTS</h2>
